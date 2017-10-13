@@ -11,6 +11,10 @@ clear
 cat >>   EOF
 
 
+#Anomaly Hackers Group 2017
+#By Ra's al Ghul
+
+
 
 █
  
