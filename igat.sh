@@ -1,32 +1,13 @@
 #!/bin/bash
 
-
-
-
-
-clear
-
-cat >>   EOF
-
-
 #Anomaly Hackers Group 2017
 #By Ra's al Ghul
 
 
 
-█
- 
-█   ███████           ████████████ ███████████████
-█   █                 █          █       █
-█   █                 █          █       █
-█   █   ████   ██████ █          █       █
-█   █      █          ████████████       █  
-█   █      █          █          █       █
-█   █      █          █          █       █
-█   ████████  		      █          █       █
+clear
 
 
-EOF
 
 mkdir İnformation-Gathering Araçları
 cd İnformation-Gathering Araçları
