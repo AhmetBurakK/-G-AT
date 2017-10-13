@@ -3,14 +3,8 @@
 #Anomaly Hackers Group 2017
 #By Ra's al Ghul
 
-
-
-clear
-
-
-
-mkdir İnformation-Gathering Araçları
-cd İnformation-Gathering Araçları
+mkdir HackAraçları
+cd HackAraçları
 
 git clone https://github.com/i3visio/osrframework.git
 git clone https://github.com/joshDelta/Gloom-Framework.git
