@@ -13,23 +13,7 @@
 
 clear
 
-cat >>   EOF
 
-
-
-█
- 
-█   ███████           ████████████ ███████████████
-█   █                 █          █       █
-█   █                 █          █       █
-█   █   ████   ██████ █          █       █
-█   █      █          ████████████       █  
-█   █      █          █          █       █
-█   █      █          █          █       █
-█   ████████  		  █          █       █
-
-
-EOF
 
 mkdir İnformation-Gathering Araçları
 cd İnformation-Gathering Araçları
