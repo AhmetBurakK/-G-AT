@@ -3,6 +3,19 @@
 #Anomaly Hackers Group 2017
 #By Ra's al Ghul
 
+cat << EOF
+
+
+██╗ ██████╗        █████╗ ████████╗
+██║██╔════╝       ██╔══██╗╚══██╔══╝
+██║██║  ███╗█████╗███████║   ██║   
+██║██║   ██║╚════╝██╔══██║   ██║   
+██║╚██████╔╝      ██║  ██║   ██║   
+╚═╝ ╚═════╝       ╚═╝  ╚═╝   ╚═╝ 
+
+
+EOF 
+
 mkdir HackAraçları
 cd HackAraçları
 
@@ -14,6 +27,10 @@ git clone https://github.com/m4ll0k/WPSeku.git
 git clone https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest.git
 git clone https://github.com/EnableSecurity/wafw00f.git
 git clone https://github.com/UltimateHackers/ReconDog.git
+git clone https://github.com/UltimateHackers/Breacher.git
+git clone https://github.com/Hadesy2k/sqliv.git
+https://github.com/m4ll0k/Spaghetti.git
+https://github.com/shawarkhanethicalhacker/D-TECT.git
 
 cat İyi Eğlenceler:D
 
